@@ -1,0 +1,228 @@
+About Vardhaman college of Engineering
+Vardhaman College of Engineering (VCE), a distinguished autonomous institution affiliated with JNTU, Hyderabad, is situated in the serene environs of Shamshabad, Hyderabad. Located within the tranquil Kacharam Village in the Ranga Reddy district, the campus is strategically positioned away from the urban clamor, offering an ideal setting for academic pursuits amidst nature’s bounty.
+
+Subject   Matrices and Calculus
+•	Books   
+o	Higher Engineering Mathematics by B.S. Grewal is a comprehensive guide covering calculus, differential equations and other core topics for engineering students with numerous solved examples.
+o	Advanced Engineering Mathematics by Erwin Kreyszig focuses on applied mathematics with extensive problem-solving techniques across various advanced topics.
+o	Engineering Mathematics by N.P. Bali and Manish Goyal provides a simplified approach to fundamental engineering mathematics making it ideal for beginners.
+o	Matrix Analysis and Applied Linear Algebra by Carl D. Meyer offers an in-depth exploration of linear algebra with a strong emphasis on both theory and practical applications.
+o	Calculus: Early Transcendentals by James Stewart
+A popular textbook that covers a wide range of calculus topics with an emphasis on clarity and real-world applications.
+
+Thomas' Calculus by George B. Thomas, Maurice D. Weir, and Joel Hass
+A comprehensive introduction to calculus with both theoretical and applied approaches.
+
+Calculus by Michael Spivak
+A rigorous introduction to calculus, ideal for those with a strong interest in the theoretical foundations of the subject.
+
+Calculus Made Easy by Silvanus P. Thompson
+A classic book for beginners that simplifies many of the concepts in calculus.
+
+Calculus: A Complete Course by Robert A. Adams
+Covers both single-variable and multivariable calculus with plenty of examples and exercises.
+Location RACK A ROW 1
+Subject   Engineering Chemistry
+•	Books   
+o	Engineering Chemistry by Jain and Jain covers fundamental concepts of chemistry essential for engineering students, with a focus on applied chemistry in engineering contexts.
+o	Engineering Chemistry by P.C. Jain and Monica Jain provides a comprehensive understanding of chemical principles materials science and environmental chemistry with clear explanations and practical applications.
+o	Engineering Chemistry by Ravikrishnan is a concise guide that emphasizes core chemistry topics relevant to engineering with a strong focus on industrial applications and problem-solving.
+o	A Textbook of Engineering Chemistry by Shashi Chawla offers a clear and structured presentation of chemistry topics combining theoretical knowledge with practical aspects for engineering students.
+o	Location RACK B ROW 1
+Subject   English for Skill Enhancement
+•	Books   
+o	Effective Technical Communication by M. Ashraf Rizvi provides a comprehensive guide to technical writing and communication skills focusing on clarity, structure and the effective presentation of technical information.
+o	English for Technical Communication by K. Rama Krishna Rao offers a practical approach to improving English language skills specifically tailored for technical communication in professional settings.
+o	Technical Communication   Principles and Practice by Meenakshi Raman and Sangeeta Sharma combines theoretical principles with practical exercises covering key aspects of technical communication such as writing reports, manuals, and business correspondence.
+o	Professional Communication Skills by Meenakshi Raman and Prakash Singh focuses on developing professional communication skills including public speaking, group discussions, and interpersonal communication, essential for engineering and management students.
+o	Location   RACK C ROW 1
+Subject   Problem Solving through C
+•	Books   
+o	Let Us C by Yashavant Kanetkar is a beginner-friendly guide to C programming featuring simple explanations numerous examples and exercises to help readers build a solid foundation in coding.
+o	Programming in ANSI C by E. Balagurusamy offers a clear and structured introduction to ANSI C, with a focus on fundamental programming concepts, practical examples, and step-by-step problem-solving techniques.
+o	C Programming Language by Brian W. Kernighan and Dennis M. Ritchie is the classic and authoritative book on C programming by the creators of the language, providing a deep understanding of C and its core principles.
+o	C Programming   A Modern Approach by K.N. King is a comprehensive and contemporary guide to C programming that covers both fundamental and advanced topics with an emphasis on modern software development practices.
+o	Location   RACK D ROW 1
+Subject   Introduction to Data Science
+•	Books   
+o	Python for Data Analysis by Wes McKinney   Focuses on using Python for data manipulation, analysis, and visualization, providing practical examples with Pandas, NumPy, and other essential libraries.
+o	 Data Science for Business by Foster Provost and Tom Fawcett   Introduces the fundamental concepts of data science and its application to business decision-making, emphasizing data-driven strategies and predictive analytics.
+o	 Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron   A practical guide to machine learning and deep learning using Python, covering algorithms, techniques, and best practices with hands-on projects.
+o	 Python Data Science Handbook by Jake VanderPlas is a comprehensive coverage of data science tools and techniques in Python, including detailed tutorials on libraries such as NumPy, Pandas, Matplotlib, and Scikit-Learn.
+o	Location   RACK E, ROW 1
+Subject   Construction Materials
+•	Books   
+o	 Building Construction Materials and Techniques by Gurcharan Singh covers the materials and techniques used in building construction, with a focus on practical applications and industry practices. 
+o	Construction Materials   Their Nature and Behaviour by Peter Domone and John Illston explores the properties and performance of construction materials, emphasizing their behavior in different conditions. 
+o	Materials for Civil and Construction Engineers by Michael S. Mamlouk and John P. Zaniewski provides an in-depth understanding of materials used in civil and construction engineering, including their properties and uses.
+o	 Building Materials by S.K. Duggal offers a comprehensive overview of various building materials, including their characteristics, applications, and selection criteria.
+•	Location   RACK F, ROW 1
+Subject   Computer Aided Drawing
+•	Books   
+o	 Engineering Drawing by N.D. Bhatt and V.M. Panchal   Comprehensive introduction to engineering drawing principles and practices.
+o	 Engineering Graphics by P.J. Shah and A.S. Shah   Detailed exploration of engineering graphics techniques and applications.
+o	 Engineering Drawing and Design by David A. Madsen, David P. Madsen, and John L. Adamski   Focuses on drawing techniques and design principles in engineering.
+o	 Engineering Drawing with an Introduction to AutoCAD by Dhananjay A. Jolhe  Integrates traditional engineering drawing with AutoCAD for modern design practices.
+o	Location   RACK B , ROW 2
+Subject   Social Innovation
+•	Books   
+o	 The Power of Social Innovation by Stephen Goldsmith and Gigi Georges explores how civic entrepreneurs leverage community networks to drive positive social change.
+o	 Social Innovation   Solutions for a Sustainable Future by David Adger, Gideon Baker, and Ian Christie discusses strategies and frameworks for creating sustainable, impactful social innovations. 
+o	 The Innovation Expedition by Gijs van Wulfen   Provides a practical, visual toolkit for guiding teams through the innovation process from idea to implementation.
+o	 Design a Better Business by Patrick Van Der Pijl, Justin Lokitz, and Lisa Kay Solomon   Offers new tools, skills, and a mindset for developing effective business strategies and fostering innovation.
+o	Location   RACK C, ROW 2
+
+Subject   Applied Physics
+•	Books   
+o	 Engineering Physics by Gaur R.K. and Gupta S.L. covers fundamental concepts and applications of physics tailored for engineering students.
+o	 Concepts of Modern Physics by Arthur Beiser   Introduces key principles of modern physics, including quantum mechanics, relativity, and particle physics, for undergraduate students.
+o	 Fundamentals of Physics by David Halliday, Robert Resnick, and Jearl Walker   A comprehensive and widely-used textbook that provides a clear understanding of core physics principles with problem-solving techniques.
+o	 Physics for Scientists and Engineers by Raymond A. Serway and John W. Jewett   Focuses on calculus-based physics concepts and is designed to build analytical and problem-solving skills in students of science and engineering.
+o	Location   RACK C, ROW 3
+Subject   C Programming and Data Structures
+•	Books   
+o	 Data Structures Through C in Depth by S.K. Srivastava and Deepali Srivastava   Provides a thorough exploration of data structures using C, with detailed explanations and practical examples.
+o	 Data Structures and Algorithms Made Easy in C by Narasimha Karumanchi   Focuses on simplifying data structures and algorithms concepts with practical C programming solutions.
+o	 C Programming and Data Structures by P.S. Deshpande and O.G. Kakde    Combines C programming and data structures with an emphasis on understanding and implementing key concepts.
+o	 Data Structures and Algorithmic Thinking with Python by Narasimha Karumanchi   Explores data structures and algorithms through Python, emphasizing problem-solving and algorithmic thinking.
+o	Location   RACK C , ROW 4
+Subject   Engineering Drawing
+•	Books   
+o	 Building Construction Materials and Techniques by Gurcharan Singh   Provides an in-depth overview of various construction materials and their applications in building construction techniques.
+o	 Construction Materials   Their Nature and Behaviour by Peter Domone and John Illston   Examines the properties, behavior, and performance of construction materials, with a focus on their nature and application in the industry.
+o	 Materials for Civil and Construction Engineers by Michael S. Mamlouk and John P. Zaniewski   Offers a comprehensive guide to the selection and use of materials for civil engineering projects, emphasizing sustainability and performance.
+o	 Building Materials by S.K. Duggal   Covers a wide range of building materials, detailing their properties, uses, and testing methods for construction engineering students.
+o	Location   RACK D, ROW 2
+Subject   Digital Electronics
+•	Books   
+o	 Digital Design   Principles and Practices by John F. Wakerly   Offers a comprehensive introduction to digital design principles, covering both theoretical concepts and practical applications.
+o	Digital Electronics   Principles and Integrated Circuits by Anil K. Maini   Explores the fundamentals of digital electronics, with a focus on integrated circuits and their practical use in digital systems.
+o	 Digital Electronics A Practical Approach by William Kleitz   Provides a hands-on approach to digital electronics, emphasizing real-world applications and circuit design techniques.
+o	 Digital Systems   Principles and Applications by Ronald J. Tocci, Neal S. Widmer, and Gregory L. Moss   Presents an extensive study of digital systems, combining fundamental theory with practical examples and applications in digital technology.
+o	Location   RACK D, ROW 3
+Subject   Basic Electrical Engineering
+•	Books   
+o	 Basic Electrical Engineering by D.P. Kothari and I.J. Nagrath   Provides a thorough introduction to the fundamentals of electrical engineering, including circuit theory, machines, and power systems.
+o	 Fundamentals of Electrical Engineering by Charles A. Gross and Thaddeus A. Roppel   Covers essential electrical engineering principles with a focus on both analysis and practical applications.
+o	 Basic Electrical Engineering by V.K. Mehta and Rohit Mehta   Explains the core concepts of electrical engineering, offering clear explanations and practical problem-solving techniques.
+o	 Electric Power Principles   Sources, Conversion, Distribution and Use by James L. Kirtley Jr.   Discusses the principles of electric power systems, focusing on energy sources, conversion, distribution, and practical uses in power engineering.
+o	Location   RACK D , ROW 4
+Subject   Data Structures
+•	Books   
+o	 Data Structures and Algorithms in C++ by Michael T. Goodrich, Roberto Tamassia, and David M. Mount   Provides a comprehensive introduction to data structures and algorithms using C++, emphasizing theoretical analysis and practical implementation.
+o	 Data Structures and Algorithms in Python by Michael T. Goodrich, Roberto Tamassia, and Michael H. Goldwasser   Explores fundamental data structures and algorithms in Python, combining theory, implementation, and application-based examples.
+o	 Data Structures and Algorithm Analysis in C++by Mark Allen Weiss   Focuses on the design, analysis, and implementation of data structures and algorithms using C++, offering a deep dive into computational complexity.
+o	 Data Structures Using C and C++ by Yedidyah Langsam, Moshe J. Augenstein, and Aaron M. Tenenbaum   Covers foundational data structures and algorithms in both C and C++, presenting a dual-language approach for better understanding.
+o	Location   RACK E  ROW 1
+Subject   Computer Organization
+•	Books   
+o	 Computer Organization and Design The Hardware/Software Interface by David A. Patterson and John L. Hennessy   Introduces the fundamentals of computer organization and architecture with a focus on the interaction between hardware and software.
+o	 Computer Organization and Architecture   Designing for Performance by William Stallings   Provides an in-depth exploration of computer architecture and design principles aimed at optimizing performance.
+o	 Structured Computer Organization by Andrew S. Tanenbaum and Todd Austin**   Presents a layered approach to computer organization, emphasizing the integration of software and hardware concepts.
+o	 Computer Organization and Architecture by William Stallings   Covers key concepts of computer architecture, focusing on both theoretical principles and practical performance considerations. 
+o	Location   RACK E , ROW 2
+Subject   Engineering Workshop
+•	Books   
+o	 Engineering Workshop Practice by S.K. Hajra Choudhary, A.K. Hajra Choudhary, and Nirjhar Roy   Provides a detailed guide to workshop techniques and practices essential for engineering students.
+o	 Engineering Workshop Practice Manual by JNTU Publications   Offers practical instructions and exercises for engineering workshop courses, tailored to university curriculum requirements.
+o	 Workshop Technology   Manufacturing Processes by S.K. Hajra Choudhary and Nirjhar Roy   Explores various manufacturing processes and techniques used in workshop technology, with a focus on practical applications.
+o	 Workshop Technology   Vol. I & II by B.S. Raghuvanshi   Presents comprehensive coverage of workshop technology and manufacturing processes, serving as a fundamental reference for engineering students and professionals.
+o	Location   RACK F, ROW 1
+Subject   Data Visualization Laboratory
+•	Books   
+o	 Data Visualization   Principles and Practice by Alexandru C. Telea   Offers an in-depth understanding of data visualization principles, techniques, and practical implementation for effective visual communication.
+o	 Interactive Data Visualization for the Web by Scott Murray   Guides readers through creating interactive data visualizations for the web using D3.js, with a focus on practical examples and hands-on coding.
+o	 Data Visualization Toolkit   Using JavaScript, SVG, and CSS by Jeffery A. Heer, Michael Bostock, and Vadim Ogievetsky   Provides a toolkit for creating powerful data visualizations using JavaScript, SVG, and CSS, emphasizing flexibility and customization.
+o	 The Visual Display of Quantitative Information by Edward R. Tufte   A classic work on data visualization that emphasizes clarity, precision, and efficiency in the graphical display of quantitative data.
+o	Location   RACK F, ROW 2
+Subject   Data Wrangling Laboratory
+•	Books   
+o	 Data Wrangling with Python by Jacqueline Kazil and Katharine Jarmul   Focuses on cleaning, transforming, and preparing data for analysis using Python libraries and tools.
+o	 Python for Data Analysis by Wes McKinney   Provides a comprehensive guide to data analysis in Python, particularly using the powerful pandas library for data manipulation and visualization.
+o	 Data Wrangling with R by Bradley C. Boehmke   Covers essential data wrangling techniques using R, focusing on tidying, cleaning, and transforming data for analysis.
+o	 Data Wrangling with Pandas by Kevin Markham   Offers practical insights and techniques for data manipulation and analysis using the pandas library in Python, emphasizing real-world applications.
+o	Location   RACK F , ROW 2
+Subject   Introduction to Web Technology Laboratory
+•	Books   
+o	 Web Technologies   A Computer Science Perspective by Jeffrey C. Jackson   Provides a comprehensive overview of web technologies from a computer science perspective, covering fundamental concepts and practical applications.
+o	 HTML and CSS   Design and Build Websites by Jon Duckett   Offers a visually engaging introduction to HTML and CSS, focusing on practical web design and development skills.
+o	 JavaScript and JQuery   Interactive Front-End Web Development by Jon Duckett   Explains JavaScript and jQuery for creating interactive and dynamic web experiences, with a focus on hands-on examples and practical use.
+o	 Web Technology   Theory and Practice by Srinivasan Murthy   Examines both theoretical and practical aspects of web technologies, including web standards, protocols, and development practices.
+o	Location   RACK F , ROW 4
+Subject   Ordinary Differential Equations and Vector Calculus
+•	Books   
+o	 Ordinary Differential Equations by M.D. Raisinghani   Provides a comprehensive introduction to ordinary differential equations (ODEs), covering theory, methods, and applications.
+o	 Differential Equations and Their Applications by Martin Braun   Focuses on the theory and practical applications of differential equations, with a range of real-world examples and problems.
+o	 Elementary Differential Equations and Boundary Value Problems by William E. Boyce and Richard C. DiPrima   Offers a thorough exploration of differential equations and boundary value problems, emphasizing analytical and numerical techniques.
+o	 Vector Calculus by Jerrold E. Marsden and Anthony J. Tromba   Introduces vector calculus concepts, including vector fields, line integrals, and surface integrals, with applications in various fields of science and engineering.
+o	Location   RACK G, ROW 1
+Subject   Ordinary Differential Equations and Vector Calculus
+•	Books   
+o	 Ordinary Differential Equations by M.D. Raisinghani   Provides a comprehensive introduction to ordinary differential equations (ODEs), covering theory, methods, and applications.
+o	 Differential Equations and Their Applications by Martin Braun   Focuses on the theory and practical applications of differential equations, with a range of real-world examples and problems.
+o	 Elementary Differential Equations and Boundary Value Problems by William E. Boyce and Richard C. DiPrima   Offers a thorough exploration of differential equations and boundary value problems, emphasizing analytical and numerical techniques.
+o	 Vector Calculus by Jerrold E. Marsden and Anthony J. Tromba   Introduces vector calculus concepts, including vector fields, line integrals, and surface integrals, with applications in various fields of science and engineering.
+o	Location   RACK G , ROW 1
+Subject   Basic Electrical Engineering Laboratory
+•	Books   
+o	 Basic Electrical Engineering Laboratory Manual by JNTU Publications   Provides practical laboratory exercises and experiments related to basic electrical engineering principles, designed for students at JNTU.
+o	 Electrical Engineering Laboratory Manual by P.C. Bhaskar and A.V.S.S. Sudhakar   Contains a range of experiments and practical exercises aimed at reinforcing electrical engineering concepts and laboratory skills.
+o	 Electrical Engineering Laboratory Manual by T.K. Nagsarkar and M.S. Sukhija   Offers detailed laboratory experiments and procedures for electrical engineering students, with a focus on fundamental principles and practical applications.
+o	 Basic Electrical Engineering Laboratory Manual by C.L. Wadhwa   Includes practical exercises and experiments designed to support learning in basic electrical engineering, focusing on hands-on experience and understanding of core concepts.
+o	Location   RACK G , ROW 2
+Subject   Python Programming Laboratory
+•	Books   
+o	 Python Programming   A Modular Approach by K.N. King Offers a structured approach to learning Python programming, emphasizing modular design and practical programming skills.
+o	 Python Crash Course A Hands-On, Project-Based Introduction to Programming by Eric Matthe Provides an engaging, project-based introduction to Python, with practical exercises and real-world projects to build programming skills.
+o	 Python Programming An Introduction to Computer Science by John Zelle  Introduces Python programming within the context of computer science principles, suitable for beginners and those new to programming concepts.
+o	 Python Cookbook by David Beazley and Brian K. Jones A collection of practical recipes and solutions for common programming tasks and challenges in Python, aimed at experienced programmers.
+o	Location RACK G, ROW 4
+SubjecT Engineering Exploration
+•	Books  
+o	 Introduction to Engineering by Paul H. Wright and John T. Ireland Offers a broad overview of the engineering profession, covering foundational concepts, problem-solving, and ethics.
+o	 Engineering Your Future A Comprehensive Introduction to Engineering by William C. Oakes, Les L. Leone, and Craig J. Gunn Provides a comprehensive guide to understanding the engineering discipline, including career paths, design principles, and professional development.
+o	 Discovering Engineering by Mark W. Beck Introduces students to various engineering fields and practices, emphasizing creativity, innovation, and the impact of engineering on society.
+o	 Engineering Fundamentals An Introduction to Engineering by Saeed Moaveni Covers essential engineering concepts, including problem-solving techniques, design processes, and the importance of interdisciplinary collaboration.
+o	Location RACK H, ROW 1
+Subject Business Economics and Financial Analysis
+•	Books  
+o	 Business Economics by David L. Anderson, Dennis J. Sweeney, and Thomas A. Williams Provides a comprehensive understanding of economic principles and their application in business decision-making and strategy.
+o	 Managerial Economics Foundations of Business Analysis and Strategy by Christopher R. Thomas and S. Charles Maurice Combines economic theory with practical business applications to aid in strategic decision-making and analysis.
+o	 Financial Analysis, Planning & Forecasting Theory and Application by Alice C. Lee and John C. Lee Covers the theoretical and practical aspects of financial analysis, planning, and forecasting for effective business management.
+o	 Financial Statement Analysis and Security Valuation by Stephen H. Penman Focuses on analyzing financial statements to value securities, emphasizing both accounting concepts and valuation techniques.
+o	Location RACK H , ROW 2
+Subject Discrete Mathematical Structures
+•	Books  
+o	 Discrete Mathematics and Its Applications by Kenneth H. Rosen A comprehensive guide to discrete mathematics, covering topics like logic, set theory, combinatorics, graph theory, and algorithms with applications in computer science.
+o	 Discrete Mathematics by Richard Johnsonbaugh Offers a clear introduction to discrete mathematics, focusing on problem-solving, logical thinking, and applications in computer science and engineering.
+o	 Discrete Mathematics and Its Applications with Combinatorics and Graph Theory by Ralph P. Grimaldi Combines discrete mathematics with in-depth coverage of combinatorics and graph theory, emphasizing both theoretical concepts and practical applications.
+o	 Concrete Mathematics A Foundation for Computer Science by Ronald L. Graham, Donald E. Knuth, and Oren Patashnik merges continuous and discrete mathematics in a unique style, providing a foundational text for computer science with a focus on combinatorics, number theory, and asymptotic analysis.
+o	Location RACK H, ROW 3
+Subject Database Management Systems
+•	Books  
+o	 Database Management Systems by Raghu Ramakrishnan and Johannes Gehrke Provides an in-depth exploration of database management systems, focusing on core concepts, design, and implementation, along with advanced topics like distributed databases and data mining.
+o	 Database System Concepts by Abraham Silberschatz, Henry F. Korth, and S. Sudarshan offers a comprehensive introduction to database systems, covering fundamental concepts, SQL, database design, and advanced topics such as transaction management and recovery.
+o	 Fundamentals of Database Systems by Ramez Elmasri and Shamkant B. Navathe covers both the theoretical and practical aspects of database systems, including database design, modeling, SQL, and emerging trends like NoSQL and big data.
+o	 Database Systems The Complete Book by Hector Garcia-Molina, Jeffrey D. Ullman, and Jennifer Widom combines theoretical foundations with practical aspects of database systems, encompassing topics from relational databases to data warehousing and information retrieval.
+o	Location RACK H, ROW 4
+Subject    Artificial Intelligence Principles and Techniques
+•	Books  
+o	 Artificial Intelligence A Modern Approach by Stuart Russell and Peter Norvig is a comprehensive textbook that covers the theory and practice of artificial intelligence, including machine learning, robotics, natural language processing, and ethical considerations.
+o	 Artificial Intelligence Foundations of Computational Agents by David L. Poole and Alan K. Mackworth focuses on the foundational concepts and methods of AI, with an emphasis on computational agents and their decision-making processes.
+o	 Artificial Intelligence Structures and Strategies for Complex Problem Solving by George F. Luger Offers an in-depth introduction to AI techniques and problem-solving strategies, integrating both classical and modern approaches.
+o	 Artificial Intelligence A Systems Approach by Michael Negnevitsky Provides a systemsoriented view of AI, emphasizing practical applications and covering topics like expert systems, fuzzy logic, neural networks, and genetic algorithms.
+o	Location RACK I, ROW 1
+Subject    Data Wrangling
+•	Books  
+o	 Python for Data Analysis by Wes McKinney focuses on using Python, especially the pandas library, for data manipulation, analysis, and visualization, with practical examples for data scientists.
+o	 Data Wrangling with Python by Jacqueline Kazil and Katharine Jarmul teaches essential data wrangling skills in Python, covering data collection, cleaning, transformation, and analysis using libraries like pandas and NumPy.
+o	 Data Wrangling with R by Bradley C. Boehmke provides a comprehensive guide to data wrangling using R, covering techniques for data cleaning, transformation, and visualization with tidy verse packages.
+o	 Data Wrangling with Pandas by Kevin Markham specializes in data manipulation using pandas, offering practical exercises and tutorials for effective data wrangling and analysis in Python.
+o	Location RACK I, ROW 2
+Subject    Hydraulics and Hydraulic Machines
+•	Books  
+o	 Fluid Mechanics and Hydraulic Machines by R.K. Bansal offers a comprehensive introduction to fluid mechanics and hydraulic machines, focusing on fundamental concepts, solved examples, and practical applications in engineering.
+o	 Hydraulics and Hydraulic Machines by A. K. Biswas provides an in-depth study of hydraulics and hydraulic machines, covering fluid properties, flow dynamics, and various types of hydraulic machinery.
+o	 A Textbook of Fluid Mechanics and Hydraulic Machines by R.K. Rajput combines theory with practical problem-solving approaches in fluid mechanics and hydraulic machines, including numerous examples and exercises for students.
+o	 Hydraulic Machines by K. Subramanya focuses on the principles and design of hydraulic machines, with detailed coverage of pumps, turbines, and related fluid machinery along with practical examples and applications.
+o	Location RACK J ROW 3
